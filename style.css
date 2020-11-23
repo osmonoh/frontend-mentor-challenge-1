@@ -97,9 +97,13 @@ body {
 }
 
 .attribution {
-  font-size: 11px;
+  margin-top: auto;
+  padding-bottom: 1.1rem;
+  font-size: 1.1rem;
   text-align: center;
-  padding: 2rem;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
 
 @media (max-width: 1021px) {
