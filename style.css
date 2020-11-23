@@ -28,26 +28,27 @@ body {
 }
 
 .slim-headline {
-  font-size: 3.2rem;
+  font-size: 3.6rem;
   font-weight: 200;
 }
 
 .fat-headline {
-  font-size: 3.2rem;
+  font-size: 3.6rem;
   font-weight: 600;
 }
 
 .sub-headline {
-  padding: 2rem;
+  padding: 2rem 0;
+  color: hsl(229, 6%, 66%);
   font-weight: 400;
 }
 
 .cards-container {
+  margin: 2rem 0 4rem 0;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  padding: 4rem 0;
 }
 
 .card {
@@ -73,8 +74,9 @@ body {
 
 .card-text {
   margin-bottom: 3.4rem;
+  color: hsl(229, 6%, 66%);
   font-size: 1.2rem;
-  font-weight: 200;
+  font-weight: 400;
 }
 
 .card-icon {
@@ -103,7 +105,11 @@ body {
 @media (max-width: 1021px) {
   .slim-headline,
   .fat-headline {
-    font-size: 2.8rem;
+    font-size: 2.4rem;
+  }
+
+  .sub-headline {
+    padding: 2rem 4rem;
   }
 
   .cards-container {
