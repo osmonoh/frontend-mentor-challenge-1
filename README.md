@@ -34,5 +34,5 @@ There is also a `style-guide.md` file, which contains the information you'll nee
 
 ### Mobile design
 
-![Design preview for the Four card feature section coding challenge](./design/mobil-design.jpg)
+![Design preview for the Four card feature section coding challenge](./design/mobile-design.jpg)
 
