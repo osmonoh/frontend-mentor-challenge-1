@@ -1,7 +1,7 @@
 # Frontend Mentor - Four card feature section
 
 
-This is is a challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges), a very nice website for practicing skills for learners of frontend technologies. I spend a decent amount of time on these when I was learning CSS, SASS and principles of responsive design. I absolutely loved doing them! 
+This is a challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges), a very nice website for practicing skills for learners of frontend technologies. I spend a decent amount of time on these when I was learning CSS, SASS and principles of responsive design. I absolutely loved doing them! 
 
 
 So this is the design you aspire to achieve (and under is the challenge explained a little more):
@@ -34,5 +34,5 @@ There is also a `style-guide.md` file, which contains the information you'll nee
 
 ### Mobile design
 
-![Design preview for the Four card feature section coding challenge](./design/desktop-mobile.jpg)
+![Design preview for the Four card feature section coding challenge](./design/mobil-design.jpg)
 
