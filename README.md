@@ -1,5 +1,12 @@
 # Frontend Mentor - Four card feature section
 
+
+This is is a challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges), a very nice website for practicing skills for learners of frontend technologies. I spend a decent amount of time on these when I was learning CSS, SASS and principles of responsive design. I absolutely loved doing them! 
+
+
+So this is the design you aspire to achieve (and under is the challenge explained a little more):
+
+
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
 
@@ -20,3 +27,12 @@ The designs are in JPG static format. This will mean that you'll need to use you
 You will find all the required assets in the `/images` folder. The assets are already optimized.
 
 There is also a `style-guide.md` file, which contains the information you'll need, such as color palette and fonts.
+
+### Desktop design
+
+![Design preview for the Four card feature section coding challenge](./design/desktop-design.jpg)
+
+### Mobile design
+
+![Design preview for the Four card feature section coding challenge](./design/desktop-mobile.jpg)
+
